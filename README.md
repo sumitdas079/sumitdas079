@@ -1,10 +1,8 @@
 ## Hello there, this is **SUMIT DAS**
-<br>
+
 ## 🚀 About Me
 I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer Science Engineering.
-
-  I am passionate about web development and I look forward to contribute on open-source projects.
-<br>
+I am passionate about web development and I look forward to contribute on open-source projects.
 
 ## ⚡ Technologies
 ### Languages:
