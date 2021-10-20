@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer Science Engineering.
+<br>
 I am passionate about web development and I look forward to contribute on open-source projects.
 
 ## ⚡ Technologies
