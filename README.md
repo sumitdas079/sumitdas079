@@ -1,6 +1,5 @@
 ## Hello there, this is **SUMIT DAS**
 <br>
-
 ## 🚀 About Me
 I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer Science Engineering.
 
