@@ -18,8 +18,8 @@ I am passionate about web development and I look forward to contribute on open-s
 
 ### Frameworks and Libraries
 <div style style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> 
+    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"> 
     <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    
 </div>
