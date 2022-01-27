@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer Science Engineering.
 <br>
-I am passionate about web development and I look forward to contribute on open-source projects.
 
 ## ⚡ Technologies
 ### Languages:
@@ -27,6 +26,5 @@ I am passionate about web development and I look forward to contribute on open-s
 <br>
 
 ## 🔗 You can follow me on...
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-das-a661b01ba/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumitdas0849)
