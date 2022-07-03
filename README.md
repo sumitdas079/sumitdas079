@@ -20,8 +20,7 @@ I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer 
     <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"> 
     <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-   
+    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">   
 </div>
 <br>
 ### Developer Tools
