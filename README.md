@@ -25,6 +25,12 @@ I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer 
 </div>
 <br>
 
+### Databases
+<div style style="display: inline_block"><br>
+    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+</div>
+<br>
+
 ### Developer Tools
 <div style style="display: inline_block"><br>
     <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">   
