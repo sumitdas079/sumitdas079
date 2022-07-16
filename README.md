@@ -1,50 +1,42 @@
 ## Hello there, this is **SUMIT DAS**
 
 ## 🚀 About Me
-I'm an enthusiastic frontend developer currently pursuing Bachelors in Computer Science Engineering.
+I'm an enthusiastic Full Stack developer currently looking for an internship 😃.
 <br>
 
 ## ⚡ Technologies
 ### Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="sumit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="sumit-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sumit-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="sumit-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="sd-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-
+  <img align="center" alt="sd" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="sd" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="sd" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="sd" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="sd" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
-<br>
 
 ### Frameworks and Libraries
 <div style style="display: inline_block"><br>
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"> 
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+    <img align="center" alt="sd" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
 </div>
-<br>
 
 ### Databases
 <div style style="display: inline_block"><br>
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 </div>
-<br>
 
 ### Developer Tools
 <div style style="display: inline_block"><br>
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">   
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="sd" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">   
+    <img align="center" alt="sd" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">   
+    <img align="center" alt="sd" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
-<br>
 
-</div>
-</div>
-</div>
-<br>
 
 ## 🔗 You can follow me on...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-das-a661b01ba/)
