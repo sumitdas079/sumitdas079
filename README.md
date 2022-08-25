@@ -1,4 +1,4 @@
-## Hello there, this is **SUMIT DAS**
+## Hello there, this is **SUMIT DAS** 👋
 
 ## 🚀 About Me
 I'm an enthusiastic Full Stack developer currently looking for an internship 😃.
