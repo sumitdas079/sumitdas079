@@ -16,11 +16,11 @@ I'm an enthusiastic Full Stack developer currently looking for an internship ðŸ˜
 
 ### Frameworks and Libraries
 <div style style="display: inline_block"><br>
-    <img align="center" alt="sd" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-    <img align="center" alt="sd" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
     <img align="center" alt="sd" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="sd" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img align="center" alt="sd" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+    <img align="center" alt="sd" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
 </div>
 
 ### Databases
