@@ -1,7 +1,7 @@
 ## Hello there, this is **SUMIT DAS** 👋
 
 ## 🚀 About Me
-I'm an enthusiastic Full Stack developer currently looking for an internship 😃.
+I'm an enthusiastic Full Stack developer currently looking for a full-time job as a Software Developer 😃.
 <br>
 
 ## ⚡ Technologies
